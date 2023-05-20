@@ -9,5 +9,10 @@
 <body>
   <h1>test git</h1>
   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem fugit dolores deleniti cupiditate molestias quam illum iusto voluptas animi, qui provident error nulla, numquam, totam ea iste adipisci aspernatur soluta?</p>
+  <ul>
+    <li>ikan</li>
+    <li>pisang</li>
+    <li>ayam</li>
+  </ul>
 </body>
 </html>
